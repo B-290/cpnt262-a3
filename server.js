@@ -11,5 +11,5 @@ app.use(function(request, response) {
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, function() {
-  console.log(`Example app listening at http://localhost:${port}`);
+  console.log(`Example app listening at http://localhost:${PORT}`);
 })
