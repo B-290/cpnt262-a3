@@ -1,0 +1,52 @@
+main {
+  display: block;
+     } 
+
+.next {
+     display: flex;
+     flex-direction: row;
+     float: right;
+}
+
+.contact li { 
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+  margin-right: 25px;
+  list-style: none;
+  flex-shrink: initial;
+
+}
+
+.lists ul {
+  
+  list-style: none;
+
+} 
+
+menu li {
+  
+  list-style: none;
+
+}
+h1 {
+  font-family: Raleway-ExtraBoldItalic;
+
+}
+
+.table a {
+  display: flex;
+  display: flex;
+  
+  flex-direction: row;
+  justify-content: space-between;
+  
+  flex-basis: 400;
+  flex: shrink 3;
+
+}
+
+
+
